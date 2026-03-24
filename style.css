@@ -29,3 +29,24 @@
 .menuItem:hover a {
     color: black;
 }
+
+.header-img {
+    background-image: url('./assetes/testing.avif');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-img h1 {
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
